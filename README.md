@@ -37,10 +37,10 @@
 
 - Membuat FORM
 
-1. Membuat Form di file baru pada HTML !
+1. Membuat Form di file baru pada HTML !![10](https://user-images.githubusercontent.com/59682730/114562591-d3f5de80-9c98-11eb-943b-04dde8280e9f.PNG)
 
-2. FORM Berhasil ditambahkan pada browser seperti nama alamat dsb !
+2. FORM Berhasil ditambahkan pada browser seperti nama alamat dsb !![11](https://user-images.githubusercontent.com/59682730/114562595-d5bfa200-9c98-11eb-9de9-043738b83f86.PNG)
 
-3. Menambahan form data pelanggan dengan CSS !
+3. Menambahan form data pelanggan dengan CSS !![12](https://user-images.githubusercontent.com/59682730/114562601-d6583880-9c98-11eb-86db-1dc95977b61e.PNG)
 
-4. Form data pelanggan ditambahkan dengan CSS Sehinga lebih bagus!
+4. Form data pelanggan ditambahkan dengan CSS Sehinga lebih bagus!![13](https://user-images.githubusercontent.com/59682730/114562605-d6f0cf00-9c98-11eb-92f5-2c8bab9a00cc.PNG)
