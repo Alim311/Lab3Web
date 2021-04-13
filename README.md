@@ -27,16 +27,18 @@
 6 Description List berhasi ditambahkan pada browser!![6](https://user-images.githubusercontent.com/59682730/114560537-fc7cd900-9c96-11eb-943f-7895b9664f62.PNG)
 
 - Membuat TABLE
-1. Membuat Table di file baru !
-2. Table Berhasil ditambahkan !
+1. Membuat Table di file baru !![7](https://user-images.githubusercontent.com/59682730/114561805-19fe7280-9c98-11eb-9171-7ef9d6a81ac7.PNG)
 
-3. menggabungkan sel data pada fakultas menggunakan atribut rowspan!
+2. Table Berhasil ditambahkan !![8](https://user-images.githubusercontent.com/59682730/114561810-1bc83600-9c98-11eb-8461-a59ddce936e7.PNG)
+
+3. menggabungkan sel data pada fakultas menggunakan atribut rowspan!![9](https://user-images.githubusercontent.com/59682730/114561811-1c60cc80-9c98-11eb-8572-af9ef6c90c8d.PNG)
 
 
 
 - Membuat FORM
 
 1. Membuat Form di file baru pada HTML !
+
 2. FORM Berhasil ditambahkan pada browser seperti nama alamat dsb !
 
 3. Menambahan form data pelanggan dengan CSS !
