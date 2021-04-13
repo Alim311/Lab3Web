@@ -18,7 +18,7 @@
 
 2. ordered List Berhasil ditambahkan pada Browser!
 
-3.Selanjutnya Menambahkan Unordered list dengan manambahkan square!
+    3.Selanjutnya Menambahkan Unordered list dengan manambahkan square!
 
 4. Unorederd list berhasil ditambahkan dengan simbol kotak!
 
