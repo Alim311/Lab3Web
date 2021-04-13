@@ -10,3 +10,18 @@
 ![a](https://user-images.githubusercontent.com/59682730/114558143-92fbcb00-9c94-11eb-8f9b-707dffeb1a29.PNG)
 ![b](https://user-images.githubusercontent.com/59682730/114558380-d1918580-9c94-11eb-9409-b5a5e7c25188.PNG)
 ![c](https://user-images.githubusercontent.com/59682730/114558384-d2c2b280-9c94-11eb-8bec-db458b83af89.PNG)
+
+# Laporan Praktikum
+
+- Membuat LIST
+1. Membuat Ordered List di subline!
+
+2. ordered List Berhasil ditambahkan pada Browser!
+
+3.Selanjutnya Menambahkan Unordered list dengan manambahkan square!
+
+4. Unorederd list berhasil ditambahkan dengan simbol kotak!
+
+5 Menambahkan Description List pada HTML!
+
+6 Description List berhasi ditambahkan pada browser!
